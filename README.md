@@ -1,10 +1,12 @@
 <div align="center">
 
-Hi, I'm Hitesh Pogade 👋
-Senior DevOps Engineer | Cloud Infrastructure | Automation | Reliability
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Hitesh%20Pogade&fontSize=58&fontColor=ffffff&stroke=36BCF7&strokeWidth=2&animation=fadeIn&desc=Senior%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descSize=18&descAlignY=70&color=0:0f172a,50:123c69,100:1d4ed8" alt="Hitesh Pogade — Senior DevOps Engineer" width="100%" />
+
+👋 Hi, I'm Hitesh Pogade
+Senior DevOps Engineer · Cloud Infrastructure · Automation · Reliability
 Building reliable infrastructure, automating operations, and helping applications stay secure, observable, and available.
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+%26+Infrastructure+Engineering;DevOps+%7C+Automation+%7C+Monitoring;Docker+%7C+AWS+%7C+Linux;High+Availability+%26+Disaster+Recovery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Designing+Reliable+Cloud+Infrastructure;Automating+DevOps+%26+Operations;AWS+%7C+Docker+%7C+Linux+%7C+NGINX;High+Availability+%26+Disaster+Recovery;Security+%7C+Monitoring+%7C+Continuous+Improvement" alt="DevOps focus areas" />
 </p>
 
 <p>
@@ -100,17 +102,6 @@ These are the kinds of engineering problems I like working on. I'll add public r
 - Infrastructure Security — reverse-proxy hardening, WAF configuration, request controls, and security headers.
 - Automation & Operations Tooling — scripts and lightweight tools that reduce repetitive work and improve consistency.
 Tip: Replace these entries with links to public repositories, sanitized architecture diagrams, and technical write-ups. Avoid publishing company secrets, internal hostnames/IPs, credentials, customer data, or production configuration.
-
-📊 GitHub at a Glance
-<!-- Replace YOUR_GITHUB_USERNAME in the URLs below with your GitHub username. -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub streak" />
-</div>
 
 🎯 Currently Interested In
 - Infrastructure as Code and repeatable environments
